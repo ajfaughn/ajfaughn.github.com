@@ -1,4 +1,4 @@
 ajfaughn.github.com
 ===================
 
-my portfolio
+my portfolio, work in progress
